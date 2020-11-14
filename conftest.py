@@ -1,11 +1,11 @@
 import json
-import allure
 import pytest
 from selenium import webdriver
 from Config.Browsers.browser_factory import BrowserFactory
 from Config.Browsers.supported_browsers import SupportedBrowsers
 from Config.Platforms.supported_platforms import SupportedPlatforms
 from Utils.Logs.logger import logger
+import allure
 
 from Tests.test_base import TestBase
 

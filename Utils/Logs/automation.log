@@ -1769,3 +1769,245 @@ ured
 2020-11-14 19:27:15,798 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
 2020-11-14 19:27:15,944 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to compare list']")
 2020-11-14 19:27:18,213 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:29:24,720 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:29:24,720 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:29:24,720 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:29:26,806 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:29:26,920 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:29:29,727 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:29:29,739 - INFO - base_page.get_page_title - Page title is "nopCommerce demo store"
+2020-11-14 22:29:29,815 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:29:31,259 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:29:31,372 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:29:33,783 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:29:33,795 - INFO - base_page.get_page_url - Page URL is "https://demo.nopcommerce.com/"
+2020-11-14 22:29:33,872 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:29:35,346 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:29:35,459 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:29:37,958 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:29:38,123 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 22:29:40,126 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 22:29:40,258 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:29:41,650 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:29:41,766 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:29:44,196 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:29:44,367 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 22:29:45,421 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 22:29:45,554 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to cart']")
+2020-11-14 22:29:46,195 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:29:47,489 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:29:47,605 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:29:49,352 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:29:49,498 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 22:29:51,281 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 22:29:51,348 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to compare list']")
+2020-11-14 22:29:51,996 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:46:40,736 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:46:40,736 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:46:40,736 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:46:40,736 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:46:40,736 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:46:40,736 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:46:40,736 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:46:40,736 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:46:40,736 - INFO - conftest.read_config_file - Read configuration file
+gured
+2020-11-14 22:46:40,736 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:46:40,736 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:46:40,736 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:46:40,736 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:46:44,573 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:46:45,034 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:46:45,782 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:46:45,932 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:46:46,248 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:46:46,373 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:46:46,619 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:46:46,756 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:46:47,655 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:46:47,908 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:46:50,961 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:46:51,630 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:46:51,781 - INFO - base_page.get_page_url - Page URL is "https://demo.nopcommerce.com/"
+2020-11-14 22:46:51,887 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 22:46:51,981 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:46:52,056 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:46:52,162 - INFO - base_page.get_page_title - Page title is "nopCommerce demo store"
+2020-11-14 22:46:52,519 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:46:52,919 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:46:53,538 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 22:46:54,015 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:46:54,449 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 22:46:55,667 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 22:46:56,058 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:46:56,101 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 22:46:56,513 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to compare list']")
+2020-11-14 22:46:56,551 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 22:46:56,798 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to cart']")
+2020-11-14 22:46:57,318 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:46:58,016 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:48:22,439 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:48:22,439 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:48:22,439 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:48:22,439 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:48:22,439 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:48:22,439 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:48:22,439 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:48:22,439 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:48:22,439 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:48:22,439 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:48:22,439 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:48:22,439 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:48:22,439 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:48:24,835 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:48:24,937 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:48:24,963 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:48:25,061 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:48:26,318 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:48:26,474 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:48:26,996 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:48:27,059 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:48:27,204 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:48:27,300 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:48:29,949 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:48:29,996 - INFO - base_page.get_page_url - Page URL is "https://demo.nopcommerce.com/"
+2020-11-14 22:48:30,118 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:48:32,063 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:48:32,189 - INFO - base_page.get_page_title - Page title is "nopCommerce demo store"
+2020-11-14 22:48:32,336 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:48:33,243 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:48:33,248 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:48:33,485 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:48:33,681 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 22:48:33,704 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 22:48:33,862 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 22:48:36,120 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 22:48:36,223 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 22:48:36,291 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 22:48:36,422 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to compare list']")
+2020-11-14 22:48:36,546 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to cart']")
+2020-11-14 22:48:36,593 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:48:37,508 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:48:37,581 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:53:28,022 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:53:28,022 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:53:28,022 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:53:28,022 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:53:28,022 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:53:28,022 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:53:28,022 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:53:28,022 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:53:28,022 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:53:28,022 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:53:28,022 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:53:28,022 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 22:53:28,022 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 22:53:28,022 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 22:53:30,899 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:53:30,982 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:53:31,070 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:53:31,122 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:53:32,423 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:53:32,557 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:53:32,695 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:53:32,733 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 22:53:32,824 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:53:32,852 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 22:53:35,975 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:53:36,172 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:53:36,685 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 22:53:36,904 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 22:53:37,992 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:53:38,012 - INFO - base_page.get_page_url - Page URL is "https://demo.nopcommerce.com/"
+2020-11-14 22:53:38,142 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:53:38,577 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:53:38,612 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 22:53:38,685 - INFO - base_page.get_page_title - Page title is "nopCommerce demo store"
+2020-11-14 22:53:38,785 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:53:39,112 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 22:53:39,394 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 22:53:39,418 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 22:53:39,571 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to compare list']")
+2020-11-14 22:53:39,655 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:53:40,958 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 22:53:41,089 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 22:53:41,161 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to cart']")
+2020-11-14 22:53:41,793 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 23:27:35,422 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 23:27:35,422 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 23:27:35,422 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 23:27:35,422 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 23:27:35,422 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 23:27:35,422 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 23:27:35,430 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 23:27:35,430 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 23:27:35,430 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 23:27:35,430 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 23:27:35,430 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 23:27:35,430 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 23:27:35,443 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 23:27:35,444 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 23:27:35,444 - INFO - conftest.config_browser - MicrosoftEdge browser configured
+2020-11-14 23:27:47,111 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 23:27:47,113 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 23:27:47,137 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 23:27:47,145 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 23:27:47,266 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 23:27:47,296 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 23:27:47,297 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 23:27:47,386 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 23:27:47,386 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 23:27:47,743 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 23:27:55,070 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 23:27:55,304 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 23:27:55,364 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 23:27:55,578 - INFO - base_page.get_page_url - Page URL is "https://demo.nopcommerce.com/"
+2020-11-14 23:27:55,735 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 23:27:55,799 - INFO - base_page.get_page_title - Page title is "nopCommerce demo store"
+2020-11-14 23:27:55,826 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 23:27:55,900 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 23:27:56,124 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 23:27:56,486 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 23:27:56,496 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 23:27:56,518 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 23:28:00,555 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 23:28:01,057 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 23:28:01,373 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 23:28:01,544 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to cart']")
+2020-11-14 23:28:01,604 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 23:28:01,801 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to compare list']")
+2020-11-14 23:28:02,613 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 23:28:02,836 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 23:36:45,743 - INFO - conftest.read_config_file - Read configuration file
+2020-11-14 23:36:45,743 - INFO - conftest.config_platform - grid platform configured
+2020-11-14 23:36:45,743 - INFO - conftest.config_browser - chrome browser configured
+2020-11-14 23:36:47,926 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 23:36:48,038 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 23:36:50,754 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 23:36:50,767 - INFO - base_page.get_page_title - Page title is "nopCommerce demo store"
+2020-11-14 23:36:50,840 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 23:36:52,286 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 23:36:52,401 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 23:36:54,822 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 23:36:54,836 - INFO - base_page.get_page_url - Page URL is "https://demo.nopcommerce.com/"
+2020-11-14 23:36:54,929 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 23:36:56,271 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 23:36:56,375 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 23:36:58,586 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 23:36:58,761 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 23:37:00,596 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 23:37:00,727 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 23:37:01,918 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 23:37:02,030 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 23:37:04,530 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 23:37:04,671 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 23:37:06,547 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 23:37:06,631 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to cart']")
+2020-11-14 23:37:07,900 - INFO - conftest.init_driver - Driver was closed
+2020-11-14 23:37:09,301 - INFO - conftest.init_driver - Driver was initialized
+2020-11-14 23:37:09,415 - INFO - conftest.init_driver - Browser's window was maximized
+2020-11-14 23:37:11,684 - INFO - conftest.init_driver - Navigated to https://demo.nopcommerce.com/
+2020-11-14 23:37:11,851 - INFO - base_page.type - Typed htc in element ('name', 'q')
+2020-11-14 23:37:13,603 - INFO - base_page.click - Clicked on element ('css selector', '.search-box-button')
+2020-11-14 23:37:13,668 - INFO - base_page.js_click - Clicked on element using javascript ('css selector', "input[value='Add to compare list']")
+2020-11-14 23:37:15,392 - INFO - conftest.init_driver - Driver was closed
