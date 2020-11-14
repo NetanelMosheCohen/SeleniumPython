@@ -3,8 +3,8 @@
 ## **The framework contains:**
 
 - Cross-browser support for running tests on 3 different browsers (Chrome, Firefox, Edge):
-  1. Running locally using webdriver-manager
-  2. Running on Docker containers using Selenoid
+    - Running locally using webdriver-manager
+    - Running on Docker containers using Selenoid
   
 - Support for parallel execution
   
@@ -24,8 +24,10 @@
 Parallel execution on Chrome Docker containers in Selenoid UI:
 ![alt text](https://github.com/NetanelMosheCohen/SeleniumPython/blob/master/Selenoid.PNG?raw=true)
 
+
 Live test execution with VNC inside the container:
 ![alt text](https://github.com/NetanelMosheCohen/SeleniumPython/blob/master/Docker.PNG?raw=true)
+
 
 The generated Allure report at the end of the run:
 ![alt text](https://github.com/NetanelMosheCohen/SeleniumPython/blob/master/Allure.PNG?raw=true)
