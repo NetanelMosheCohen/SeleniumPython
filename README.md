@@ -1,4 +1,4 @@
-# Web Automation Full Framework - Python | Pytest | Selenium | Allure | Docker
+# Web Test Automation Full Framework - Python | Pytest | Selenium | Allure | Docker
 
 ## **The framework contains:**
 
