@@ -1,0 +1,243 @@
+{
+  "11dc49639950961cf26732d55bff053c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "8029195a4ad2c003",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/12/allure/#testresult/8029195a4ad2c003",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605455412083,
+        "stop" : 1605455415331,
+        "duration" : 3248
+      }
+    }, {
+      "uid" : "1c9a152f08715a23",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/11/allure/#testresult/1c9a152f08715a23",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../Config/config.json'",
+      "time" : {
+        "start" : 1605455227604,
+        "stop" : 1605455227604,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "34b7a27749586bc2",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/10/allure/#testresult/34b7a27749586bc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605454588638,
+        "stop" : 1605454592104,
+        "duration" : 3466
+      }
+    }, {
+      "uid" : "20d5f3a74e37f75f",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/9/allure/#testresult/20d5f3a74e37f75f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605454319386,
+        "stop" : 1605454323395,
+        "duration" : 4009
+      }
+    } ]
+  },
+  "67e3d58cbb28af217236a9cedfa4f1e5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "356a130484ad5900",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/12/allure/#testresult/356a130484ad5900",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605455412017,
+        "stop" : 1605455412168,
+        "duration" : 151
+      }
+    }, {
+      "uid" : "970bf4b19e2b13bf",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/11/allure/#testresult/970bf4b19e2b13bf",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../Config/config.json'",
+      "time" : {
+        "start" : 1605455227604,
+        "stop" : 1605455227604,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8ac786aecb055c2e",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/10/allure/#testresult/8ac786aecb055c2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605454588107,
+        "stop" : 1605454588204,
+        "duration" : 97
+      }
+    }, {
+      "uid" : "7f777e54231aae68",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/9/allure/#testresult/7f777e54231aae68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605454319583,
+        "stop" : 1605454319723,
+        "duration" : 140
+      }
+    } ]
+  },
+  "d32c756d212d77a294bbbb1cf3b4b108" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "81e50c7f9aa7e06c",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/12/allure/#testresult/81e50c7f9aa7e06c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605455411863,
+        "stop" : 1605455411912,
+        "duration" : 49
+      }
+    }, {
+      "uid" : "b8bf2a2804dad46e",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/11/allure/#testresult/b8bf2a2804dad46e",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../Config/config.json'",
+      "time" : {
+        "start" : 1605455227604,
+        "stop" : 1605455227604,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "871649d90fb6f3eb",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/10/allure/#testresult/871649d90fb6f3eb",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: App title is incorrect\nassert 'nopCommerce demo store' == '1nopCommerce demo store'\n  - 1nopCommerce demo store\n  ? -\n  + nopCommerce demo store",
+      "time" : {
+        "start" : 1605454588196,
+        "stop" : 1605454588297,
+        "duration" : 101
+      }
+    }, {
+      "uid" : "ecb269cd08a5a175",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/9/allure/#testresult/ecb269cd08a5a175",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605454319060,
+        "stop" : 1605454319493,
+        "duration" : 433
+      }
+    } ]
+  },
+  "d65eadb7ef4dc123b5bd137b66ef8061" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "66c951522b1aac23",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/12/allure/#testresult/66c951522b1aac23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605455412319,
+        "stop" : 1605455416089,
+        "duration" : 3770
+      }
+    }, {
+      "uid" : "f932dfd7b85b9ff4",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/11/allure/#testresult/f932dfd7b85b9ff4",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../Config/config.json'",
+      "time" : {
+        "start" : 1605455227604,
+        "stop" : 1605455227604,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a2c12a5a4ac5de1e",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/10/allure/#testresult/a2c12a5a4ac5de1e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605454588001,
+        "stop" : 1605454593263,
+        "duration" : 5262
+      }
+    }, {
+      "uid" : "dffe28b708ed427b",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/9/allure/#testresult/dffe28b708ed427b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605454319575,
+        "stop" : 1605454324341,
+        "duration" : 4766
+      }
+    } ]
+  },
+  "d9320b04c76e8c3f4bd238aa541133c6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "504110f6ab56cc47",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/12/allure/#testresult/504110f6ab56cc47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605455412489,
+        "stop" : 1605455416390,
+        "duration" : 3901
+      }
+    }, {
+      "uid" : "611044d083265426",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/11/allure/#testresult/611044d083265426",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../Config/config.json'",
+      "time" : {
+        "start" : 1605455227604,
+        "stop" : 1605455227604,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8633888fab699751",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/10/allure/#testresult/8633888fab699751",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605454588477,
+        "stop" : 1605454592584,
+        "duration" : 4107
+      }
+    }, {
+      "uid" : "f8e182ad8700f663",
+      "reportUrl" : "http://localhost:6060/job/SeleniumPython/9/allure/#testresult/f8e182ad8700f663",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605454318048,
+        "stop" : 1605454324608,
+        "duration" : 6560
+      }
+    } ]
+  }
+}

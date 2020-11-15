@@ -1,0 +1,10 @@
+[32mINFO    [0m Utils.Logs.logger:conftest.py:19 Read configuration file
+[32mINFO    [0m Utils.Logs.logger:conftest.py:34 grid platform configured
+[32mINFO    [0m Utils.Logs.logger:conftest.py:49 chrome browser configured
+[32mINFO    [0m Utils.Logs.logger:conftest.py:65 Driver was initialized
+[32mINFO    [0m Utils.Logs.logger:conftest.py:67 Browser's window was maximized
+[32mINFO    [0m Utils.Logs.logger:conftest.py:69 Navigated to https://demo.nopcommerce.com/
+[32mINFO    [0m Utils.Logs.logger:base_page.py:33 Typed htc in element ('name', 'q')
+[32mINFO    [0m Utils.Logs.logger:base_page.py:14 Clicked on element ('css selector', '.search-box-button')
+[32mINFO    [0m Utils.Logs.logger:base_page.py:24 Clicked on element using javascript ('css selector', "input[value='Add to cart']")
+[32mINFO    [0m Utils.Logs.logger:conftest.py:79 Driver was closed

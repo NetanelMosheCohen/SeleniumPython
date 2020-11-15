@@ -1,0 +1,20 @@
+[ {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:6060/job/SeleniumPython/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 5
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:6060/job/SeleniumPython/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:6060/job/SeleniumPython/9/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+} ]
