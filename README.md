@@ -1,10 +1,10 @@
-# Web Test Automation Full Framework - Python | Pytest | Selenium | Allure | Docker
+# Web Test Automation Full Framework - Python | Pytest | Selenium | Allure | Docker | Jenkins
 
 ## **The framework contains:**
 
 - Cross-browser support for running tests on 3 different browsers (Chrome, Firefox, Edge):
-    - Running locally using webdriver-manager
-    - Running on Docker containers using Selenoid
+    - Running tests locally using webdriver-manager
+    - Running tests on Docker containers using Selenoid
   
 - Support for parallel execution
   
@@ -17,6 +17,8 @@
 - Logger (including errors, stack trace, logging test steps, etc.)
 
 - Page Object Model design
+
+- Support for running tests as CI using Jenkins
 
 
 ## **Some screenshots from the project:**
