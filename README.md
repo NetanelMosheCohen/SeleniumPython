@@ -18,7 +18,7 @@
 
 - Page Object Model design
 
-- Support for running tests as CI using Jenkins
+- Demonstation to run the project from Jenkins (in the video link)
 
 
 ## **Some screenshots from the project:**
