@@ -12,7 +12,7 @@
 
 - Tests run report and dashboard using Allure (including screenshots)
 
-- Reading test data from external file
+- Test data management from external file
 
 - Logger (including errors, traceback, test steps, etc.)
 
