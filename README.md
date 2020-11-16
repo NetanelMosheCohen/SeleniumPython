@@ -12,13 +12,15 @@
 
 - Tests run report and dashboard using Allure (including screenshots)
 
-- Reading test data from external file (ini)
+- Reading test data from external file
 
-- Logger (including errors, stack trace, logging test steps, etc.)
+- Logger (including errors, traceback, test steps, etc.)
 
 - Page Object Model design
 
-- Demonstation to run the project from Jenkins (in the video link)
+
+## **Demo:**  
+## https://www.youtube.com/watch?v=sSz-R_kpskY
 
 
 ## **Some screenshots from the project:**
@@ -27,9 +29,9 @@ Parallel execution on Chrome Docker containers in Selenoid UI:
 ![alt text](https://github.com/NetanelMosheCohen/SeleniumPython/blob/master/Selenoid.PNG?raw=true)
 
 
-Live test execution with VNC inside the container:
+Live test execution from the container using VNC docker images:
 ![alt text](https://github.com/NetanelMosheCohen/SeleniumPython/blob/master/Docker.PNG?raw=true)
 
 
-The generated Allure report at the end of the run:
+Allure report at the end of the run:
 ![alt text](https://github.com/NetanelMosheCohen/SeleniumPython/blob/master/Allure.PNG?raw=true)
