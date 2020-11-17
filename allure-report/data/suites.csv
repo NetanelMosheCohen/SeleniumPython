@@ -1,6 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Nov 15 17:50:12 IST 2020","Sun Nov 15 17:50:12 IST 2020","151","Tests","test_basic","TestBasic","","","test_if_site_url_is_correct","Checking that app URL is correct"
-"passed","Sun Nov 15 17:50:12 IST 2020","Sun Nov 15 17:50:16 IST 2020","3901","Tests","test_search","TestSearch","","","test_add_item_to_compare","Searching for an item and adding it to products comparison"
-"passed","Sun Nov 15 17:50:12 IST 2020","Sun Nov 15 17:50:16 IST 2020","3770","Tests","test_search","TestSearch","","","test_add_item_to_cart","Searching for an item and adding it to the cart"
-"passed","Sun Nov 15 17:50:11 IST 2020","Sun Nov 15 17:50:11 IST 2020","49","Tests","test_basic","TestBasic","","","test_if_site_title_is_correct","Checking that app title is correct"
-"passed","Sun Nov 15 17:50:12 IST 2020","Sun Nov 15 17:50:15 IST 2020","3248","Tests","test_search","TestSearch","","","test_if_search_results_are_correct","Searching for an item and checking that all search results match search criteria"

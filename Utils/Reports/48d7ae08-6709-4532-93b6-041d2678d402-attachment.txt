@@ -1,0 +1,8 @@
+[32mINFO    [0m Utils.Logs.logger:conftest.py:19 Read configuration file
+[32mINFO    [0m Utils.Logs.logger:conftest.py:34 grid platform configured
+[32mINFO    [0m Utils.Logs.logger:conftest.py:49 MicrosoftEdge browser configured
+[32mINFO    [0m Utils.Logs.logger:conftest.py:65 Driver was initialized
+[32mINFO    [0m Utils.Logs.logger:conftest.py:67 Browser's window was maximized
+[32mINFO    [0m Utils.Logs.logger:conftest.py:69 Navigated to https://demo.nopcommerce.com/
+[32mINFO    [0m Utils.Logs.logger:base_page.py:56 Page title is "nopCommerce demo store"
+[32mINFO    [0m Utils.Logs.logger:conftest.py:79 Driver was closed
