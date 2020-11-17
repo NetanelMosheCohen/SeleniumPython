@@ -8,7 +8,7 @@
   
 - Support for parallel execution
   
-- Platform and browser parameterization using config file (json)
+- Platform and browser parameterization using config file (JSON)
 
 - Tests run report and dashboard using Allure (including screenshots)
 
@@ -29,7 +29,7 @@ Parallel execution on Chrome Docker containers in Selenoid UI:
 ![alt text](https://github.com/NetanelMosheCohen/SeleniumPython/blob/master/Selenoid.PNG?raw=true)
 
 
-Live test execution from the container using VNC docker images:
+Live test execution from the container using VNC Docker images:
 ![alt text](https://github.com/NetanelMosheCohen/SeleniumPython/blob/master/Docker.PNG?raw=true)
 
 
