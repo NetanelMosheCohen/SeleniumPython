@@ -70,11 +70,11 @@ def init_driver(read_config_file, config_platform, config_browser, request):
 
     yield driver
 
-    if request.node.rep_call.failed:
-        allure.attach(driver.get_screenshot_as_png(), name=f"screenshot_{request.node.name}")
-        logger.info(f"Screenshot was taken for test {request.node.name}")
-
     if driver:
+        if request.node.rep_call.failed:
+            allure.attach(driver.get_screenshot_as_png(), name=f"screenshot_{request.node.name}")
+            logger.info(f"Screenshot was taken for test {request.node.name}")
+
         driver.quit()
         logger.info("Driver was closed")
 

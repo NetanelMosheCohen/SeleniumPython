@@ -1,5 +1,5 @@
 {
-  "browser": "MicrosoftEdge",
+  "browser": "chrome",
   "platform": "grid",
   "remoteUrl": "http://localhost:4444/wd/hub"
 }
