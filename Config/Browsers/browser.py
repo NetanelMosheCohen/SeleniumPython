@@ -1,7 +1,7 @@
-from abc import abstractmethod
+from abc import abstractmethod, ABC
 
 
-class Browser:
+class Browser(ABC):
     @abstractmethod
     def init_browser(self):
         pass
